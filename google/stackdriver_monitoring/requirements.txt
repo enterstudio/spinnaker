@@ -8,3 +8,4 @@ prometheus_client
 pyyaml
 
 mock
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
